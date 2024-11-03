@@ -1,0 +1,54 @@
+.fill-transparent{
+    fill: transparent;
+}
+
+.fill-light{
+    fill: white;
+}
+
+.size-icon-32{
+    width: 32px;
+    height: 32px;
+
+}
+
+.stroke-light{
+    stroke: white;
+}
+
+.stroke-primary{
+    stroke: orange;
+}
+
+.fill-primary{
+    fill: orange;
+}
+
+.stroke-dis{
+    stroke: gray;
+}
+
+.hover\:stroke-white:hover{
+    stroke: white;
+}
+
+.fill-dis{
+    fill: gray;
+}
+
+.fill-succes{
+    fill: green;
+}
+
+.fill-danger{
+    fill: brown;
+}
+
+.text-line-3{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-clamp: 3; 
+}
